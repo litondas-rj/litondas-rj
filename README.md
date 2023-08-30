@@ -1,3 +1,4 @@
+
 ![I am GitHub Readme Generator's creator](https://scontent.fdoh12-1.fna.fbcdn.net/v/t1.6435-9/162347767_511844029980660_8372214348339803862_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0e5O_2oE1hEAX_eG2Xy&_nc_ht=scontent.fdoh12-1.fna&oh=00_AfBo8n4YUy0hUHDnF0yy1PyEZcQwak0zyaC3-4aSnMaGiQ&oe=65174ED4)
 
 ### Hi there 👋, my name is Rj Liton
@@ -26,7 +27,5 @@ Skills: HTML / CSS / PHP / LARAVEL / JAVASCRIPT / JQUERY
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=litondas-rj)  
 
 ![GitHub metrics](https://metrics.lecoq.io/litondas-rj)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=litondas-rj)  
 
 ![Profile views](https://gpvc.arturio.dev/litondas-rj)  

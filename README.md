@@ -6,7 +6,7 @@
 
 
 
-Skills: HTML / CSS / PHP / LARAVEL / JAVASCRIPT / JQUERY
+Skills: HTML / CSS / EJS / PHP / LARAVEL / JAVASCRIPT / JQUERY / REACT / NODE.JS / EXPRESS.JS
 
 - 🔭 I’m currently working on onpassive-qa.com 
 - 🌱 I’m currently learning Javascript 
